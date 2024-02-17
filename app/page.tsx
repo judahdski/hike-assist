@@ -1,6 +1,6 @@
 import Camp from '@/components/Camp';
 import Features from '@/components/Features';
-import GetApps from '@/components/GetApps';
+import GetApps from '@/components/GetApp';
 import Guide from '@/components/Guide';
 import Hero from '@/components/Hero';
 
